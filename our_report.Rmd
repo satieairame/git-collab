@@ -1,0 +1,12 @@
+---
+title: "our_report"
+author: "Satie Airame"
+date: "1/14/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(palmerpenguins)
+```
